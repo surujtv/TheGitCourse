@@ -140,9 +140,11 @@ Case 3 - committed changes (for many commits)
 A rough copy of a repository on GitHub. It is a way to create a new repository that is a copy of an existing repository.
 
 
-
 -------------------------------
+
 # Git nested repository problem | Unclickable folder on gitHub repo with right arrow -
+
+![Problem Image](https://media.licdn.com/dms/image/v2/D4E12AQFPWNp7tCbFMA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1716160916878?e=1737590400&v=beta&t=qF-Q86hNjayLX4H0wFcCOS_l4HFpbmM64aZkpbrEwiA)
 
 First of all navigate to nested directory in vs code or any terminal like powershall or CLI
 
