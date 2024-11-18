@@ -146,9 +146,9 @@ A rough copy of a repository on GitHub. It is a way to create a new repository t
 
 First of all navigate to nested directory in vs code or any terminal like powershall or CLI
 
-- PowerShell: Use Remove-Item -Path ".git" -Recurse -Force
-- CMD: Use rd /S /Q "C:\path\to\repo"
-- Git Bash or Unix-based shell: Use rm -rf /path/to/repo
+- PowerShell: Use **Remove-Item -Path ".git" -Recurse -Force**
+- CMD: Use **rd /S /Q "C:\path\to\repo"**
+- Git Bash or Unix-based shell: Use **rm -rf /path/to/repo**
 
 After remove .git folder from nested repo navigate to parent directory using cd .. and run following command -
 
